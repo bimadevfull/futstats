@@ -1,0 +1,11 @@
+# Banco SQLite (é recriado automaticamente)
+database/*.sqlite
+database/*.sqlite-wal
+database/*.sqlite-shm
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
