@@ -1,4 +1,4 @@
-# ⚽ FutStats
+# FutStats
 
 Sistema de gerenciamento de dados de futebol feito em **PHP puro**, com visual inspirado em apps de placar ao vivo (estilo SofaScore): tema escuro/claro, escudos gerados pelas cores do clube, placar ao vivo, timeline de eventos, estatísticas com barras e tabela de classificação calculada automaticamente.
 
